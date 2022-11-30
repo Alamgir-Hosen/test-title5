@@ -1,5 +1,5 @@
 public class Constants {
-    final String StudentList = "student.txt";
+    final String StudentList = "students.txt";
     final String ShowAll = "a";
     final String ShowRandom = "r";
     final String ShowCount = "c";
